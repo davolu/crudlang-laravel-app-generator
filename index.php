@@ -507,9 +507,9 @@ result_console.innerHTML="App created";
 <script src="assets/mode/javascript/javascript.js"></script>
 
 <script type="text/javascript">
-CodeMirror.fromTextArea(document.getElementById('code'), {
+/*CodeMirror.fromTextArea(document.getElementById('code'), {
   // your settings here
-});
+}); */
 </script>
 
 
